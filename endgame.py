@@ -645,7 +645,6 @@ def make_request():
 
     logger.log(cur_log.get(), f"Send {cur_method.get()} request to {ent_req.get()}")
 
-    print(request)
     data = request_method(request, data)
 
     if data and data.get("Error"):
