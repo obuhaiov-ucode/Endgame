@@ -1,0 +1,2917 @@
+INFO Send GET request to https://reqres.i1n/api/users
+INFO Take GET response from https://reqres.i1n/api/users with status 0 in 0 seconds
+INFO Send new record in db with successful status 0
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.i1n/api/users
+INFO Take GET response from https://reqres.i1n/api/users with status 0 in 0 seconds
+INFO Send new record in db with successful status 0
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.i1n/api/users
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.17 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to htwtps://reqres.in/api/users
+INFO Send GET request to htwtps://reqres.in/api/users
+INFO Send GET request to htwtps://reqres.in/api/users
+INFO Send GET request to https://reqregs.in/api/users
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/usersj
+INFO Take GET response from https://reqres.in/api/usersj with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/user
+INFO Take GET response from https://reqres.in/api/user with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/udser
+INFO Take GET response from https://reqres.in/api/udser with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqrges.in/api/user
+INFO Send GET request to htgtps://reqres.in/api/user
+INFO Send GET request to httgps://reqres.in/api/user
+INFO Send GET request to https://reqres.in/api/user
+INFO Take GET response from https://reqres.in/api/user with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/apgi/user
+INFO Send GET request to https://reqres.in/api/user
+INFO Take GET response from https://reqres.in/api/user with status 200 in 0.2 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/user
+INFO Take GET response from https://reqres.in/api/user with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to httjps://reqres.in/api/user
+INFO Send GET request to https://reqres.in/api/user
+INFO Take GET response from https://reqres.in/api/user with status 200 in 0.22 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://rdeqres.in/api/user
+INFO Send GET request to httpds://reqres.in/api/user
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 52 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.32 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.15 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 62 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+ERROR 'NoneType' object is not subscriptable
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 61 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 60 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 59 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 62 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 63 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 57 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 65 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 58 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 64 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.28 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 67 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 66 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 68 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 68 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 68 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 68 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 68 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send PATCH request to https://reqres.in/api/users
+INFO Take PATCH response from https://reqres.in/api/users with status 200 in 0.28 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users
+INFO Take PATCH response from https://reqres.in/api/users with status 200 in 0.18 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users
+INFO Take PATCH response from https://reqres.in/api/users with status 200 in 0.23 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users
+INFO Take PATCH response from https://reqres.in/api/users with status 200 in 0.17 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 69 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 67 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.29 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api
+INFO Send GET request to https://reqres.in/api/
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.24 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.17 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.23 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.15 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 77 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.15 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.16 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.07 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://docs.python-requests.org/en/master/api/
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.4 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.32 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.34 seconds
+INFO Send PUT request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take PUT response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.28 seconds
+INFO Send PATCH request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take PATCH response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.37 seconds
+INFO Send DELETE request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take DELETE response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.2 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.24 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://getbible.net/json?passage=Jn3:16
+INFO Send GET request to http://getbible.net/json?passage=Jn3:16&raw=true
+INFO Take GET response from http://getbible.net/json?passage=Jn3:16&raw=true with status 200 in 0.27 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to http://getbible.net/json?passage=Jn3:16
+INFO Send GET request to http://getbible.net/json?passage=Jn3:16
+INFO Send GET request to http://getbible.net/json
+INFO Send GET request to http://getbible.net/json?passage=Jn3:16&raw=true
+INFO Take GET response from http://getbible.net/json?passage=Jn3:16&raw=true with status 200 in 0.4 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.35 seconds
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.39 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.39 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.39 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Take GET response from http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm with status 200 in 0.37 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO Send GET request to http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.15 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.07 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.07 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.07 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.16 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.25 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.24 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.49 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.32 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.35 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.32 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.26 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.27 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.39 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.34 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.24 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.28 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.33 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.22 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.2 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.28 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.22 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.2 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to 
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/usgers/
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.23 seconds
+INFO Send DELETE request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take DELETE response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.19 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.32 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.34 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.33 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.38 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.34 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.45 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.32 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO Send POST request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take POST response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.21 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.24 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.34 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.44 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.4 seconds
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://docs.python-requests.org/en/master/api/
+INFO Send GET request to https://docs.python-requests.org/en/master/api/users
+INFO Send GET request to https://reqres.in/api/users/2
+INFO Take GET response from https://reqres.in/api/users/2 with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users/2
+INFO Take GET response from https://reqres.in/api/users/2 with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send POST request to https://reqres.in/api/users/2
+INFO Take POST response from https://reqres.in/api/users/2 with status 201 in 0.16 seconds
+INFO Send new record in db with successful status 201
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PUT request to https://reqres.in/api/users/2
+INFO Take PUT response from https://reqres.in/api/users/2 with status 200 in 0.16 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PUT request to https://reqres.in/api/users/2
+INFO Take PUT response from https://reqres.in/api/users/2 with status 200 in 0.16 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users/2
+INFO Take PATCH response from https://reqres.in/api/users/2 with status 200 in 0.17 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users/2
+INFO Take PATCH response from https://reqres.in/api/users/2 with status 200 in 0.17 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.36 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.25 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 7 was created
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.41 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.26 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.39 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.28 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.39 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.38 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.35 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.3 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.41 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.38 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.29 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 7 was created
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 1 was created
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO Query on 2 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.39 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.27 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.31 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.19 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.2 seconds
+INFO Send GET request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take GET response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.27 seconds
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send PATCH request to https://lms.ucode.world/api/v0/frontend/users/
+INFO Take PATCH response from https://lms.ucode.world/api/v0/frontend/users/ with status 401 in 0.28 seconds
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send POST request to https://reqres.in/api/users?page=2
+INFO Take POST response from https://reqres.in/api/users?page=2 with status 201 in 0.24 seconds
+INFO Send new record in db with successful status 201
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PUT request to https://reqres.in/api/users?page=2
+INFO Take PUT response from https://reqres.in/api/users?page=2 with status 200 in 0.23 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send PUT request to https://reqres.in/api/users?page=2
+INFO Take PUT response from https://reqres.in/api/users?page=2 with status 200 in 0.26 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.13 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.1 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.09 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.08 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 26 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Query on 19 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 1 was created
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 2 was created
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 1 was created
+INFO DataBase is connected
+INFO 5 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 5 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO 6 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO 6 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.18 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 28 was created
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+ERROR No such 28 in table
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+ERROR No such 1 in table
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+ERROR No such 2 in table
+INFO DataBase is connected
+ERROR No such 2 in table
+INFO DataBase is connected
+ERROR No such 2 in table
+INFO DataBase is connected
+ERROR No such 2 in table
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 7 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 8 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 27 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO 27 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 27 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 27 was created
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 4 was created
+INFO DataBase is connected
+INFO Query on 26 was created
+INFO DataBase is connected
+INFO 26 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 26 was created
+INFO DataBase is connected
+INFO 26 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 26 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 9 was created
+INFO DataBase is connected
+INFO Query on 10 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 5 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send POST request to https://reqres.in/api/users?page=2
+INFO Take POST response from https://reqres.in/api/users?page=2 with status 201 in 0.21 seconds
+INFO Send new record in db with successful status 201
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 5 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 6 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+ERROR 'NoneType' object is not subscriptable
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 4 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 28 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 28 was created
+INFO DataBase is connected
+INFO 28 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+ERROR incomplete input
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 7 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 8 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 9 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 9 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 6 was created
+INFO DataBase is connected
+INFO 6 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://reqres.in/api/users?page=2
+INFO Take GET response from https://reqres.in/api/users?page=2 with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send POST request to https://reqres.in/api/users?page=2
+INFO Take POST response from https://reqres.in/api/users?page=2 with status 201 in 0.17 seconds
+INFO Send new record in db with successful status 201
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PUT request to https://reqres.in/api/users?page=2
+INFO Take PUT response from https://reqres.in/api/users?page=2 with status 200 in 0.17 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://reqres.in/api/users?page=2
+INFO Take PATCH response from https://reqres.in/api/users?page=2 with status 200 in 0.18 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send DELETE request to https://reqres.in/api/users?page=2
+INFO Take DELETE response from https://reqres.in/api/users?page=2 with status 204 in 0.22 seconds
+INFO Send new record in db with successful status 204
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+ERROR incomplete input
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 3 was created
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 5 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to {@reqres}
+INFO Take GET response from {@reqres} with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to {@reqres}
+INFO Take GET response from {@reqres} with status 200 in 0.13 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://reqres.in/api/users
+INFO Take GET response from https://reqres.in/api/users with status 200 in 0.16 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send POST request to https://reqres.in/api/users
+INFO Take POST response from https://reqres.in/api/users with status 201 in 0.24 seconds
+INFO Send new record in db with successful status 201
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Query on 2 was created
+INFO DataBase is connected
+INFO {id} was deleted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
